@@ -1,0 +1,40 @@
+_repo: The-History-of-the-American-Expedition-Fighting-the-BolshevikiCampaigning-in-North-Russia-191__22523
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Jahns, Lewis E.
+    gutenberg_agent_id: '25383'
+    url: http://www.gutenberg.org/2009/agents/25383
+  - agent_name: Moore, Joel R. (Joel Roscoe)
+    birthdate: 1879
+    gutenberg_agent_id: '25381'
+    url: http://www.gutenberg.org/2009/agents/25381
+  - agent_name: Mead, Harry H.
+    gutenberg_agent_id: '25382'
+    url: http://www.gutenberg.org/2009/agents/25382
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2007-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22523'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Soviet Union -- History -- Revolution, 1917-1921 -- Participation, American'
+- !lcsh 'Soviet Union -- History -- Revolution, 1917-1921 -- Personal narratives,
+  American'
+- !lcc 'D501'
+- !lcsh 'Soldiers -- United States -- Biography'
+- !lcsh 'Soviet Union -- History -- Allied intervention, 1918-1920'
+- !lcsh 'World War, 1914-1918 -- Russia (Federation) -- Arkhangelʹsk'
+- !lcsh 'World War, 1914-1918 -- United States'
+title: 'The History of the American Expedition Fighting the Bolsheviki
+
+  Campaigning in North Russia 1918-1919'
+url: http://www.gutenberg.org/ebooks/22523
