@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '25382'
     url: http://www.gutenberg.org/2009/agents/25382
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22523#The-History-of-the-American-Expedition-Fighting-the-BolshevikiCampaigning-in-North-Russia-191_
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2007-09-05'
 gutenberg_type: Text
